@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dot Matrix With Stereo Sound
+* source:	https://sketchfab.com/3d-models/dot-matrix-with-stereo-sound-baa73a0e4a9b420397afc5b66f7c5847
+* author:	Jonas Pfeiffer (https://sketchfab.com/jonaspfeiffer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dot Matrix With Stereo Sound" (https://sketchfab.com/3d-models/dot-matrix-with-stereo-sound-baa73a0e4a9b420397afc5b66f7c5847) by Jonas Pfeiffer (https://sketchfab.com/jonaspfeiffer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
